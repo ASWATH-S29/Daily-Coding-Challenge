@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1189-maximum-number-of-balloons](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1189-maximum-number-of-balloons](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
