@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0198-house-robber) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
