@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1189-maximum-number-of-balloons](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/ASWATH-S29/Daily-Coding-Challenge/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
